@@ -8,7 +8,10 @@ Tools Required:
   
    
    Circuit diagram
-   ![exp 2](https://github.com/user-attachments/assets/9cbf2854-a85d-40ae-a159-b2d7d1e4a74c)
+
+   ![exp 2 1](https://github.com/user-attachments/assets/d0d92a19-59be-43ef-82b5-4a3661afa1f7)
+
+
 
 S C H E M A T I C S I M U L A T I O N
 PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION
